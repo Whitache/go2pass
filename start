@@ -1,2 +1,1 @@
-start 
-if 10
+In this code, console.log() is used to print the "Hello, World!" message to the browser's console.
