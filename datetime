@@ -8,3 +8,6 @@ week_number = current_date.isocalendar()[1]
 
 # Print the week number
 print(f"The current week number is: {week_number}")
+
+
+
